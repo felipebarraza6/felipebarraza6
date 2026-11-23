@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="200" viewBox="0 0 1280 200" role="img" aria-labelledby="title desc">
+  <title id="title">Felipe Barraza</title>
+  <desc id="desc">Head of Engineering · IA &amp; IoT. Chillán, Chile.</desc>
+  <defs>
+    <filter id="glow" x="-10%" y="-40%" width="120%" height="180%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scanlines" width="1280" height="3" patternUnits="userSpaceOnUse">
+      <rect width="1280" height="1" fill="#0c0c0c"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="200" fill="#050505"/>
+
+  <text text-anchor="middle" x="640" y="102" fill="#4a0810" font-family="'Courier New', Courier, ui-monospace, monospace" font-size="108" font-weight="700" letter-spacing="0.34em" filter="url(#glow)">FBARRAZA</text>
+  <text text-anchor="middle" x="640" y="102" fill="#FF1A3C" font-family="'Courier New', Courier, ui-monospace, monospace" font-size="108" font-weight="700" letter-spacing="0.34em">FBARRAZA</text>
+
+  <rect x="1058" y="74" width="7" height="28" fill="#FF1A3C" fill-opacity="0.7">
+    <animate attributeName="opacity" values="0.7;0;0.7" dur="1.25s" repeatCount="indefinite"/>
+  </rect>
+
+  <text text-anchor="middle" x="640" y="148" fill="#9a9a9a" font-family="'Courier New', Courier, ui-monospace, monospace" font-size="20" font-weight="400" letter-spacing="0.10em">Head of Engineering  ·  IA &amp; IoT</text>
+  <text text-anchor="middle" x="640" y="176" fill="#9a9a9a" font-family="'Courier New', Courier, ui-monospace, monospace" font-size="17" font-weight="400" letter-spacing="0.10em">Chillán, Chile</text>
+
+  <rect width="1280" height="200" fill="url(#scanlines)" opacity="0.35" pointer-events="none"/>
+</svg>
