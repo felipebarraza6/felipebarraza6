@@ -24,6 +24,14 @@ Soy Felipe Barraza. Lidero el área de software de [SmartHydro](https://smarthyd
 - **Infraestructura y operación** — Administro la infraestructura en DigitalOcean y Cloudflare y la organización en Google Cloud, para la continuidad operacional y la confiabilidad de la telemetría.
 - **Gestión y automatización interna** — Administro Google Workspace, las automatizaciones internas (Apps Script y el agente de Google Chat N1) y los proveedores y dominios que sostienen la operación cotidiana.
 
+**Stack**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nextjs,flutter,postgres,redis,docker,githubactions,cloudflare,gcp,linux&theme=dark" alt="Python, Django, FastAPI, React, Next.js, Flutter, PostgreSQL, Redis, Docker, GitHub Actions, Cloudflare, Google Cloud, Linux">
+</p>
+
+<p align="center"><sub>MQTT · WebSockets · TimescaleDB · DigitalOcean · Apps Script · agentes de IA</sub></p>
+
 **Sistema de agentes**
 
 Orquesto el trabajo de software con un sistema de agentes. Cada entrega a producción se cierra con una revisión humana.
