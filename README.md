@@ -11,7 +11,7 @@ Mi misión como profesional es transformar problemas reales en productos de soft
 Lidero el área de software en una empresa de ingeniería y telemetría (IoT y automatización de gestión regulatoria), soy CTO y socio en Quality Net, y desarrollo mis propios productos en Y ARQ.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luis-felipe-andr%C3%A9s-barraza-vega-56692551/"><img src="https://img.shields.io/badge/LinkedIn-32302f?style=flat-square&logo=linkedin&logoColor=8ec07c" alt="LinkedIn de Felipe Barraza"></a>
+  <a href="https://www.linkedin.com/in/felipebarraza6/"><img src="https://img.shields.io/badge/LinkedIn-32302f?style=flat-square&logo=linkedin&logoColor=8ec07c" alt="LinkedIn de Felipe Barraza"></a>
   &nbsp;
   <a href="mailto:felipe.barraza.vega@gmail.com"><img src="https://img.shields.io/badge/Email-32302f?style=flat-square&logo=gmail&logoColor=fabd2f" alt="Correo de Felipe Barraza"></a>
   &nbsp;
