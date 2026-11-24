@@ -10,6 +10,8 @@ Soy Felipe Barraza. Lidero el área de software de [SmartHydro](https://smarthyd
   <a href="https://www.linkedin.com/in/luis-felipe-andr%C3%A9s-barraza-vega-56692551/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Felipe Barraza"></a>
   &nbsp;
   <a href="mailto:felipe.barraza.vega@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A12?style=flat-square&logo=gmail&logoColor=white" alt="Correo de Felipe Barraza"></a>
+  &nbsp;
+  <a href="CV_Felipe_Barraza.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculum%20(PDF)-1A1030?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Currículum (PDF)"></a>
 </p>
 
 **Ahora** — Desde abril de 2023 soy Líder de Área de Software en [SmartHydro](https://smarthydro.cl), en Chillán. Trabajo de forma directa con el CTO.
